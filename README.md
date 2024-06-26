@@ -47,13 +47,13 @@ The Pig Dice Game is a simple dice game where players take turns to roll a singl
 
 ## Screenshots
 
-![Game Start](screenshots/game-start.png)
+![Game Start](game-start.png)
 *Game Start Screen*
 
-![Player Rolling](screenshots/player-rolling.png)
+![Player Rolling](player-rolling.png)
 *Player Rolling Dice*
 
-![Winner Announcement](screenshots/winner-announcement.png)
+![Winner Announcement](player-win.png)
 *Winner Announcement*
 
 ## Contributing
