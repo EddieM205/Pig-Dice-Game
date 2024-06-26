@@ -29,6 +29,9 @@ The Pig Dice Game is a simple dice game where players take turns to roll a singl
 - Winner announcement
 - Simple and user-friendly interface
 
+  ## Link To Game To Play Live
+  https://glistening-kleicha-68bd7d.netlify.app/
+
 ## Installation
 
 1. Clone the repository:
