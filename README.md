@@ -13,7 +13,7 @@ Welcome to the Pig Dice Game! This project is a simple implementation of the Pig
 
 ## Game Rules
 
-The Pig Dice Game is a simple dice game where players take turns to roll a single die as many times as they wish, adding the value of each roll to a running total, but losing their gained score for the turn if they roll a 1.
+The Pig Dice Game is a simple dice game where players take turns to roll a single dice as many times as they wish, adding the value of each roll to a running total, but losing their gained score for the turn if they roll a 1.
 
 - Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
   - If the player rolls a 1, they score nothing and it becomes the next player's turn.
