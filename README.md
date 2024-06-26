@@ -33,7 +33,7 @@ The Pig Dice Game is a simple dice game where players take turns to roll a singl
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pig-dice-game.git
+    git clone https://github.com/EddieM205/pig-dice-game.git
     ```
 2. Navigate to the project directory:
     ```bash
